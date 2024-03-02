@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Alejandro Hortua Saenz</h1>
 <h3 align="center">A passionate FullStack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Akee Solutions SAS**
+- 🔭 I’m currently working on **Nexus Merak**
 
 - 🌱 I’m currently learning **Angular**
 
